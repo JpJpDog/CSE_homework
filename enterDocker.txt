@@ -1,0 +1,2 @@
+sudo docker run -it --privileged --cap-add=ALL -v /home/shenyushi/documents/study/CSE/lab-cse:/home/stu/devlop ddnirvana/cselab_env:latest /bin/bash
+
